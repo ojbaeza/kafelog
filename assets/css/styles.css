@@ -1,0 +1,33 @@
+body {
+    background: #eceff1;
+    font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, Verdana;
+}
+
+#header {
+    background-image: url("../img/header_bg.png");
+    background-repeat: repeat-x;
+    background-position: center;
+}
+
+h1,
+h2 {
+    font-family: 'Lobster', 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, Verdana;
+    font-weight: 400;
+}
+
+h2 {
+    font-size: 1.4em;
+}
+
+#description p {
+    font-size: 1em;
+    font-weight: 500;
+}
+
+a {
+    color: #4A094E;
+}
+
+a:hover {
+    color: #CD18D1;
+}
